@@ -1,0 +1,66 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const CHANGE_PASSWORD = 'CHANGE_PASSWORD';
+
+
+export const SORT_ACTION= "SORT_ACTION"
+export const SORT_ACTION_LUGGER="SORT_ACTION_LUGGER"
+
+
+
+
+
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_CURRENT_PROFILE = 'GET_CURRENT_PROFILE';
+
+
+export const GET_USERS = 'GET_USERS';
+
+export const GET_FEEDBACK = 'GET_FEEDBACK';
+export const FEEDBACK_ERROR = 'FEEDBACK_ERROR';
+
+
+export const GET_RIDERS = 'GET_RIDERS';
+export const USERS_ERROR='USERS_ERROR'
+export const UPDATE_USER_STATUS = 'UPDATE_USER_STATUS';
+
+
+
+
+export const GET_REPORTS = 'GET_REPORTS';
+export const GET_REPORT = 'GET_REPORT';
+export const REPORT_ERROR = 'REPORT_ERROR';
+
+
+
+
+export const GET_LUGGERS = 'GET_LUGGERS';
+export const Get_LUGGER_DETAIL = 'Get_LUGGER_DETAIL' 
+export const UPDATE_LUGGER = 'UPDATE_LUGGER';
+export const Lugger_ERROR = 'Lugger_ERROR';
+export const USER_LUGGER_ERROR='USER_LUGGER_ERROR'
+
+export const SUCCESS_FORGOTPASSWORD='SUCCESS_FORGOTPASSWORD';
+export const SUCCESS_VERIFY_CODE='SUCCESS_VERIFY_CODE';
+export const SUCCESS_RESET_PASSWORD = 'SUCCESS_RESET_PASSWORD';
+
+
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+
+
+export const GET_NOTIFICATIONS = 'GET_NOTIFICATIONS';
+
+export const USER_LUGGERSBYID = 'USER_LUGGERSBYID';
+
+
+export const GET_CATEGORIES = 'GET_CATEGORIES'
+export const CATEGORY_ERROR='CATEGORY_ERROR'
